@@ -1,0 +1,11 @@
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\bin\Debug\netcoreapp2.0\ThreadIdTestClient.deps.json
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\bin\Debug\netcoreapp2.0\ThreadIdTestClient.runtimeconfig.json
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\bin\Debug\netcoreapp2.0\ThreadIdTestClient.runtimeconfig.dev.json
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\bin\Debug\netcoreapp2.0\ThreadIdTestClient.dll
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\bin\Debug\netcoreapp2.0\ThreadIdTestClient.pdb
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.csprojResolveAssemblyReference.cache
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.csproj.CoreCompileInputs.cache
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.AssemblyInfoInputs.cache
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.AssemblyInfo.cs
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.dll
+D:\project\test\ThreadIdTestClient\ThreadIdTestClient\obj\Debug\netcoreapp2.0\ThreadIdTestClient.pdb

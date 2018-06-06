@@ -1,0 +1,11 @@
+D:\project\test\ThreadIdTest\ThreadIdTest\bin\Debug\netcoreapp2.0\ThreadIdTest.deps.json
+D:\project\test\ThreadIdTest\ThreadIdTest\bin\Debug\netcoreapp2.0\ThreadIdTest.runtimeconfig.json
+D:\project\test\ThreadIdTest\ThreadIdTest\bin\Debug\netcoreapp2.0\ThreadIdTest.runtimeconfig.dev.json
+D:\project\test\ThreadIdTest\ThreadIdTest\bin\Debug\netcoreapp2.0\ThreadIdTest.dll
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.csprojResolveAssemblyReference.cache
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.csproj.CoreCompileInputs.cache
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.AssemblyInfoInputs.cache
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.AssemblyInfo.cs
+D:\project\test\ThreadIdTest\ThreadIdTest\bin\Debug\netcoreapp2.0\ThreadIdTest.pdb
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.dll
+D:\project\test\ThreadIdTest\ThreadIdTest\obj\Debug\netcoreapp2.0\ThreadIdTest.pdb
